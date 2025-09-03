@@ -26,7 +26,18 @@
     This is a five-day tutorial for both undergraduate and graduate students with mixed math and physics backgrounds. The course covers an edited version of core chapters from Mathematics in Lean. It also provides recordings and recommended tools to accelerate formal theorem proving (e.g., Lean Finder: https://www.leanfinder.org/).
   website: https://docs.google.com/document/d/1j8YRsuqTenN9X14ZTVLx12jOXr_vAtep7LGmL63FlSQ/edit?usp=sharing
   material: https://delta-lab-ai.github.io/lean_intro/
-
+- name: "An introduction to Lean 4"
+  instructor: Enric Cosme Llópez, Lü Gong
+  institution: Universitat de València, Nantong University
+  lean_version: 4
+  tags: ['mathematics', 'beginner']
+  summary: >
+    The main goal of this text is to provide a clear and gradual introduction to Lean 4, starting from the fundamentals of programming—syntax, types, functions, and data structures—and moving towards the core principles of formal proof, such as propositions, quantifiers, equality, and inductive reasoning. Along the way, we will study essential mathematical constructions including relations, subtypes, quotients, and orders, emphasizing their universal properties and their role in formalization.
+  website: https://www.uv.es/coslloen/Lean4/
+  repo : https://github.com/encosllo/IntroToLean4/
+  material : https://www.uv.es/coslloen/Arxiu/Fitxers/An-introduction-to-Lean-4.pdf
+  year: 2025
+  language: english
 - name: "Computer-Verified Proof: A Hands-On Introduction to Interactive Theorem Proving"
   instructor: Emily Riehl
   institution: Johns Hopkins University
